@@ -1,24 +1,31 @@
 {
-    "name":"",
-    "cvTitle":"",
-    "cvDescription":"",
+    "name":"Laura Marina Perez Cassiraga",
+    "cvTitle":"Translator and Web Developer",
+    "cvDescription":"Recent Sworn Translation graduate with two years of experience teaching English and Spanish. Skilled in writing and proofreading. Currently studying Frontend Web Development and interested in participating in projects where I can put my language and IT skills to the test.
+    Lover of books, cats, and all things language.",
     "social":[
-        {"name":"", "link":""}
+        {"name":"LinkedIn", "link":"https://www.linkedin.com/in/mcassiraga"},
+        {"name":"GitHub", "link":"https://www.github.com/mcassiraga"}
     ],
     "education":[
-        {"title":"", "institution":"", "endYear":"", "description":""},
-        {"title":"", "institution":"", "endYear":"", "description":""}
+        {"title":"Frontend Development", "institution":"Ada ITW", "endYear":"2019", "description":"GitHub, HTML, CSS, Sass, Responsive Design, Bootstrap, Lodash, Moment, JavaScript, React, Node"},
+        {"title":"Sworn Translator", "institution":"Universidad del Salvador", "endYear":"2018", "description":"Tincidunt facilisis curae sociis dictumst nullam curabitur sodales elementum metus, porttitor eros faucibus suscipit lobortis donec ac nisl, mus nulla ridiculus urna proin ut bibendum aliquet. Praesent accumsan eleifend phasellus hac blandit cubilia tincidunt dignissim, sagittis gravida aliquam fusce maecenas torquent vehicula magna euismod, id posuere arcu nostra cursus commodo netus."}
     ],
     "skills":[
-        {"title":"", "level":""},
-        {"title":"", "level":""}
+        {"title":"HTML", "level":"En desarrollo"},
+        {"title":"CSS", "level":"En desarrollo"},
+        {"title":"Sass", "level":"En desarrollo"},
+        {"title":"JavaScript", "level":"En desarrollo"},
+        {"title":"Bootstrap", "level":"En desarrollo"},
+        {"title":"GitHub", "level":"En desarrollo"},
+        {"title":"Responsive Design", "level":"En desarrollo"},
     ],
     "blog":[
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""},
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""}
+        {"title":"Hola", "sutitle":"Primer artículo", "excerpt":"Lorem ipsum dolor sit amet consectetur adipiscing elit mus...", "text":"", "images":""},
+        {"title":"Chau", "sutitle":"Segundo artículo", "excerpt":"Lorem ipsum dolor sit amet consectetur adipiscing elit mus...", "text":"", "images":""}
     ],
     "contact":{
-        "phone":"",
-        "email":""
+        "phone":"(011) 2254 0867",
+        "email":"mcassiraga@gmail.com"
     }
 }
