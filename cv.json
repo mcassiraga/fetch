@@ -1,8 +1,7 @@
 {
     "name":"Laura Marina Perez Cassiraga",
     "cvTitle":"Translator and Web Developer",
-    "cvDescription":"Recent Sworn Translation graduate with two years of experience teaching English and Spanish. Skilled in writing and proofreading. Currently studying Frontend Web Development and interested in participating in projects where I can put my language and IT skills to the test.
-    Lover of books, cats, and all things language.",
+    "cvDescription":"Recent Sworn Translation graduate with two years of experience teaching English and Spanish. Skilled in writing and proofreading. Currently studying Frontend Web Development and interested in participating in projects where I can put my language and IT skills to the test. Lover of books, cats, and all things language.",
     "social":[
         {"name":"LinkedIn", "link":"https://www.linkedin.com/in/mcassiraga"},
         {"name":"GitHub", "link":"https://www.github.com/mcassiraga"}
@@ -18,7 +17,7 @@
         {"title":"JavaScript", "level":"En desarrollo"},
         {"title":"Bootstrap", "level":"En desarrollo"},
         {"title":"GitHub", "level":"En desarrollo"},
-        {"title":"Responsive Design", "level":"En desarrollo"},
+        {"title":"Responsive Design", "level":"En desarrollo"}
     ],
     "blog":[
         {"title":"Hola", "sutitle":"Primer artículo", "excerpt":"Lorem ipsum dolor sit amet consectetur adipiscing elit mus...", "text":"", "images":""},
